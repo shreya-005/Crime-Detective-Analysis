@@ -1,0 +1,201 @@
+DetectiveID,Name,Age,Department,YearsOfExperience
+D1000,Norma Fisher,52,Narcotics,3
+D1001,Jorge Sullivan,44,Fraud,17
+D1002,Elizabeth Woods,53,Cyber Crime,17
+D1003,Susan Wagner,50,Fraud,30
+D1004,Peter Montgomery,41,Fraud,6
+D1005,Theodore Mcgrath,46,Robbery,26
+D1006,Stephanie Collins,34,Fraud,27
+D1007,Stephanie Sutton,44,Fraud,24
+D1008,Brian Hamilton,37,Cyber Crime,5
+D1009,Susan Levy,32,Cyber Crime,17
+D1010,Sean Green,34,Cyber Crime,15
+D1011,Kimberly Smith,48,Fraud,22
+D1012,Jennifer Summers,41,Fraud,17
+D1013,April Snyder,56,Fraud,10
+D1014,Dana Nguyen,31,Fraud,2
+D1015,Cheryl Bradley,33,Narcotics,24
+D1016,Walter Pratt,28,Fraud,17
+D1017,Bobby Flores,49,Robbery,25
+D1018,Tasha Rodriguez,48,Homicide,8
+D1019,Michelle Kelley,42,Robbery,27
+D1020,Kimberly Maynard,37,Fraud,16
+D1021,Laurie Wallace,33,Homicide,12
+D1022,Janice Johnston,60,Narcotics,5
+D1023,Collin Lopez,47,Fraud,11
+D1024,Mary Alvarez,35,Fraud,12
+D1025,Peter Mcdowell,41,Fraud,19
+D1026,Sarah Villanueva,46,Narcotics,4
+D1027,Kimberly Myers,52,Cyber Crime,20
+D1028,Desiree Cain,43,Cyber Crime,7
+D1029,Stephanie Lawrence,40,Robbery,3
+D1030,Lauren Hayes,44,Narcotics,4
+D1031,Whitney Stark,33,Robbery,30
+D1032,Angela Salazar,37,Homicide,28
+D1033,Mr. Ryan Sanchez,33,Fraud,23
+D1034,Autumn Robinson,53,Fraud,10
+D1035,Faith Cabrera,43,Robbery,30
+D1036,Charles Wolfe,54,Fraud,10
+D1037,Kenneth Kent,56,Narcotics,23
+D1038,Melanie Johnson,50,Homicide,12
+D1039,Lisa Johnston,35,Narcotics,20
+D1040,Jacob Hooper,49,Robbery,9
+D1041,Alex Woodward,29,Cyber Crime,5
+D1042,Caleb Clark,42,Cyber Crime,27
+D1043,Taylor Johnson,38,Cyber Crime,15
+D1044,Brian Green,31,Homicide,27
+D1045,Matthew Bell,37,Robbery,3
+D1046,Jonathan Williams,32,Homicide,5
+D1047,William Gonzalez,40,Fraud,28
+D1048,Nicholas Massey,35,Narcotics,4
+D1049,Caroline Chambers,51,Homicide,3
+D1050,Amy Lowe,29,Robbery,7
+D1051,Gloria King,35,Narcotics,8
+D1052,Jessica Thompson,31,Homicide,19
+D1053,Jason Carroll,55,Fraud,5
+D1054,Emily Howard,44,Homicide,9
+D1055,Danielle Castro,32,Cyber Crime,13
+D1056,Patrick Rogers,55,Robbery,3
+D1057,Douglas Allen,60,Narcotics,3
+D1058,Heather Roberts,34,Narcotics,8
+D1059,Travis Schultz,44,Cyber Crime,30
+D1060,Michelle Hughes,58,Fraud,7
+D1061,Matthew Smith,41,Homicide,27
+D1062,George Allen,38,Robbery,12
+D1063,Jamie Hutchinson,44,Homicide,21
+D1064,Jennifer Morales,56,Robbery,2
+D1065,Jennifer Bates,58,Narcotics,30
+D1066,Jeremy Green,60,Cyber Crime,22
+D1067,Joseph Freeman,50,Narcotics,28
+D1068,Nicole Henson,44,Robbery,19
+D1069,Eric Owens PhD,28,Narcotics,25
+D1070,Robin Lopez,33,Cyber Crime,25
+D1071,Miss Angela Swanson DVM,30,Fraud,10
+D1072,Michael Stewart,36,Robbery,26
+D1073,Mitchell Smith,58,Cyber Crime,21
+D1074,Kelsey Davis,46,Cyber Crime,20
+D1075,Matthew Russo,36,Cyber Crime,14
+D1076,William Garcia,54,Homicide,2
+D1077,Jennifer Miller,40,Cyber Crime,7
+D1078,Jesse Sparks,43,Robbery,22
+D1079,Brandi Meyer,56,Narcotics,24
+D1080,Hannah Wiggins,54,Homicide,14
+D1081,Albert Williams,54,Homicide,7
+D1082,Kristin Potts,56,Homicide,10
+D1083,Susan Williams,38,Narcotics,18
+D1084,Meredith Rios,59,Fraud,21
+D1085,Stephanie Bowman,28,Homicide,17
+D1086,Joshua Clark,48,Cyber Crime,28
+D1087,Alexa Hernandez,57,Homicide,27
+D1088,Richard Higgins,54,Robbery,19
+D1089,Marc Williams,33,Robbery,2
+D1090,William Roberts,53,Narcotics,12
+D1091,Joshua Carter,28,Robbery,2
+D1092,David Williams,28,Fraud,21
+D1093,Joseph Jones,34,Robbery,5
+D1094,Gary Perry,40,Cyber Crime,10
+D1095,Terry Wells,39,Homicide,17
+D1096,Vanessa Cooper,53,Homicide,2
+D1097,Michael Simmons,45,Narcotics,27
+D1098,Nicholas Kline,35,Cyber Crime,6
+D1099,Lori Bennett,50,Homicide,29
+D1100,Margaret Jones,37,Cyber Crime,29
+D1101,Paul Brown,29,Homicide,3
+D1102,James Stone,41,Cyber Crime,19
+D1103,John Richards,48,Cyber Crime,20
+D1104,Jenny Richardson,30,Fraud,22
+D1105,Debbie Waters MD,59,Narcotics,22
+D1106,Austin Boyer,55,Cyber Crime,29
+D1107,Stephanie Hayes,39,Robbery,14
+D1108,Barbara Sanders,46,Homicide,6
+D1109,Andrew Gould,37,Cyber Crime,12
+D1110,Charles Gonzalez,49,Cyber Crime,24
+D1111,Joshua Hernandez,33,Cyber Crime,26
+D1112,Victoria Hernandez MD,30,Homicide,10
+D1113,Sherry Simpson,38,Robbery,20
+D1114,Erica Jimenez,46,Cyber Crime,14
+D1115,Mr. Dakota Lynch II,36,Cyber Crime,5
+D1116,Victor Nolan,58,Robbery,3
+D1117,Amanda Hernandez,47,Robbery,29
+D1118,Richard Kirby,32,Cyber Crime,14
+D1119,Michelle Roman,49,Cyber Crime,15
+D1120,Bradley Melton,34,Homicide,19
+D1121,Danny Williams,58,Narcotics,12
+D1122,Ryan Rivera,49,Homicide,17
+D1123,Charles Douglas,35,Narcotics,15
+D1124,Kathy Santana,30,Cyber Crime,12
+D1125,Laura Gregory,37,Robbery,22
+D1126,Norma Mooney,52,Homicide,4
+D1127,Susan Harris,33,Robbery,25
+D1128,Linda Petersen,42,Homicide,14
+D1129,Dr. James Willis,28,Homicide,14
+D1130,Rebecca Sandoval,46,Narcotics,17
+D1131,Christopher Hunter,41,Narcotics,4
+D1132,Austin Heath,51,Robbery,10
+D1133,Elizabeth Russell,38,Narcotics,8
+D1134,Amy Davidson,50,Homicide,4
+D1135,Dustin Greer,29,Fraud,16
+D1136,Andrew Butler,40,Homicide,17
+D1137,Scott Love DDS,53,Cyber Crime,8
+D1138,William Jenkins,30,Robbery,21
+D1139,Jasmine Williams,37,Homicide,8
+D1140,Christian Johnson,57,Narcotics,13
+D1141,Lorraine Garcia,37,Homicide,21
+D1142,Hannah Reyes,59,Robbery,20
+D1143,Katherine Ibarra,53,Narcotics,30
+D1144,Julie Chen,59,Cyber Crime,28
+D1145,Caleb Fleming,59,Narcotics,22
+D1146,Rachel Martinez,40,Fraud,21
+D1147,Rebecca Stark,42,Homicide,12
+D1148,Melanie Patrick,48,Cyber Crime,3
+D1149,Rachel Lopez,37,Cyber Crime,21
+D1150,Jill Sherman,37,Narcotics,20
+D1151,Richard Jones,46,Narcotics,4
+D1152,Timothy Tucker,33,Fraud,29
+D1153,Theresa Estrada,30,Homicide,9
+D1154,Cindy Davis,36,Homicide,11
+D1155,Stacy Chan,28,Narcotics,12
+D1156,Jennifer Torres,38,Robbery,29
+D1157,Jeffery Knight,57,Cyber Crime,18
+D1158,Taylor Perry,52,Fraud,18
+D1159,Raymond Navarro,30,Fraud,4
+D1160,Jeremy Parks,32,Narcotics,30
+D1161,Thomas Rivers,41,Cyber Crime,19
+D1162,Angela Jones,54,Narcotics,29
+D1163,Allen Bailey,52,Fraud,20
+D1164,William Fuentes,42,Homicide,23
+D1165,Steven Clark,28,Robbery,11
+D1166,Michael Mays,60,Fraud,10
+D1167,Adam Wood,49,Homicide,17
+D1168,Larry Villarreal,44,Cyber Crime,26
+D1169,Brian Cooper,54,Narcotics,27
+D1170,Beverly Levy,52,Homicide,7
+D1171,John Carter,36,Robbery,11
+D1172,Tina Fields,49,Homicide,3
+D1173,Willie Garcia,58,Narcotics,6
+D1174,Brooke Hurst,59,Fraud,24
+D1175,Regina Stewart,33,Robbery,27
+D1176,Paul Carter,50,Narcotics,3
+D1177,Angel Anderson,57,Narcotics,16
+D1178,Blake Jones,31,Homicide,17
+D1179,Juan Yang,37,Homicide,3
+D1180,Jay Walsh,36,Cyber Crime,5
+D1181,Jeremy Wood,50,Robbery,14
+D1182,Amy Ortiz,59,Homicide,30
+D1183,Nicholas Flores,31,Fraud,24
+D1184,Edward Ruiz,57,Fraud,22
+D1185,Rebecca Hill,49,Homicide,23
+D1186,Melissa Flynn,46,Robbery,14
+D1187,James Saunders,46,Homicide,18
+D1188,David Chavez,40,Homicide,27
+D1189,Brenda Ford,53,Narcotics,13
+D1190,Karen Harris,40,Narcotics,13
+D1191,Michael Montgomery,32,Homicide,30
+D1192,Edwin Mack,30,Narcotics,10
+D1193,Kimberly Moore,29,Fraud,23
+D1194,Kaitlin Gregory,41,Robbery,4
+D1195,Crystal Gill,60,Fraud,15
+D1196,William Martinez,60,Cyber Crime,5
+D1197,Amanda Scott,37,Narcotics,30
+D1198,Lauren Foster,55,Homicide,5
+D1199,David Campbell,54,Homicide,5
